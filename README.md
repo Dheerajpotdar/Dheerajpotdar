@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Potdar</h1> <h3 align="center"> Senior Software Engineer at Capgemini</h3> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=760&height=50&lines=Java+17+%7C+Spring+Boot+%7C+Microservices;Event-Driven+Systems+with+Apache+Kafka;Low-Latency+%7C+Secure+%7C+Scalable+Backends;SQL+Optimization+%26+Distributed+Systems" alt="Typing animation" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Microservices-0e75b6?style=flat-square" alt="Microservices" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" /> </p>
 👨‍💻 About Me
 I build scalable, secure, and reliable enterprise backend services using Java 17, Spring Boot, and Microservices architecture. I'm passionate about low-latency systems, event-driven workflows, SQL optimization, and distributed systems.
-🏢 Working as a Senior Software Engineer at Capgemini
-⚡ Focused on building high-performance, production-grade backend services
-🌱 Always learning: system design, distributed systems, and cloud-native architecture
-📫 Open to collaborating on backend and microservices projects
+<br>🏢 Working as a Senior Software Engineer at Capgemini
+<br>⚡ Focused on building high-performance, production-grade backend services
+<br>🌱 Always learning: system design, distributed systems, and cloud-native architecture
+<br>📫 Open to collaborating on backend and microservices projects
 
 🌐 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:potdardheerajs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://youtube.com/@YOUR-YOUTUBE-HANDLE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a> <a href="https://instagram.com/YOUR-INSTAGRAM-ID"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> </p>
