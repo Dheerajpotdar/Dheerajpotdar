@@ -5,17 +5,7 @@ I build scalable, secure, and reliable enterprise backend services using Java 17
 ⚡ Focused on building high-performance, production-grade backend services
 🌱 Always learning: system design, distributed systems, and cloud-native architecture
 📫 Open to collaborating on backend and microservices projects
-java
-public class DheerajPotdar {
 
-    private final String role   = "Senior Software Engineer @ Capgemini";
-    private final String focus  = "Backend & Microservices";
-    private final String[] core = {"Java 17", "Spring Boot", "Kafka", "SQL", "Docker", "Azure"};
-
-    public String mindset() {
-        return "Build it scalable, secure and reliable.";
-    }
-}
 🌐 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:potdardheerajs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://youtube.com/@YOUR-YOUTUBE-HANDLE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a> <a href="https://instagram.com/YOUR-INSTAGRAM-ID"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> </p>
 🛠️ Tech Stack
